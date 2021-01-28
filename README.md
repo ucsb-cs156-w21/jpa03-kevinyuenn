@@ -2,7 +2,7 @@
 
 Repo: https://github.com/ucsb-cs156-w21/jpa03-kevinyuenn
 
-On Heroku: https://jpa03-kevinyuenn.herokuapp.com
+On Heroku: https://jpa03-kevinyuen.herokuapp.com
 
 On Codecov: https://codecov.io/gh/ucsb-cs156-w21/jpa03-kevinyuenn
 
